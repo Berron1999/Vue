@@ -1,0 +1,4 @@
+npm init vue@latest
+Add vue Router
+
+npm run dev
